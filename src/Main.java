@@ -7,6 +7,6 @@ public class Main {
 main
 
         System.out.print("Bye World!");
-        //Funcionalidad 1: Despedida
+        //Funcionalidad 1: Despedida Correccion
     }
 }
