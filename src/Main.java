@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.print("Bye World!");
 
+        System.out.print("Bye World!");
+        //Funcionalidad 1: Despedida
     }
 }
