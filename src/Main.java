@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
+        feature/funcionalidad2
+        System.out.print("Bye World!");
+        //Funcionalidad 2 de la tarea
+
+main
 
         System.out.print("Bye World!");
         //Funcionalidad 1: Despedida
